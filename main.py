@@ -38,7 +38,7 @@ if tk:
     class RouterApp:
         def __init__(self, root):
             self.root = root
-            self.root.title("RouterOS SSH Executor")
+            self.root.title("RouterOS SSH Executor K*UT")
             self.root.geometry("500x450")
 
             tk.Label(root, text="Логин: ").pack(pady=5)
